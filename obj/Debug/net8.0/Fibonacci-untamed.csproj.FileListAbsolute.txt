@@ -1,0 +1,14 @@
+C:\Users\13608\Documents\GitHub\Fibonacci-untamed\bin\Debug\net8.0\Fibonacci-untamed.exe
+C:\Users\13608\Documents\GitHub\Fibonacci-untamed\bin\Debug\net8.0\Fibonacci-untamed.deps.json
+C:\Users\13608\Documents\GitHub\Fibonacci-untamed\bin\Debug\net8.0\Fibonacci-untamed.runtimeconfig.json
+C:\Users\13608\Documents\GitHub\Fibonacci-untamed\bin\Debug\net8.0\Fibonacci-untamed.dll
+C:\Users\13608\Documents\GitHub\Fibonacci-untamed\bin\Debug\net8.0\Fibonacci-untamed.pdb
+C:\Users\13608\Documents\GitHub\Fibonacci-untamed\obj\Debug\net8.0\Fibonacci-untamed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13608\Documents\GitHub\Fibonacci-untamed\obj\Debug\net8.0\Fibonacci-untamed.AssemblyInfoInputs.cache
+C:\Users\13608\Documents\GitHub\Fibonacci-untamed\obj\Debug\net8.0\Fibonacci-untamed.AssemblyInfo.cs
+C:\Users\13608\Documents\GitHub\Fibonacci-untamed\obj\Debug\net8.0\Fibonacci-untamed.csproj.CoreCompileInputs.cache
+C:\Users\13608\Documents\GitHub\Fibonacci-untamed\obj\Debug\net8.0\Fibonacci-untamed.dll
+C:\Users\13608\Documents\GitHub\Fibonacci-untamed\obj\Debug\net8.0\refint\Fibonacci-untamed.dll
+C:\Users\13608\Documents\GitHub\Fibonacci-untamed\obj\Debug\net8.0\Fibonacci-untamed.pdb
+C:\Users\13608\Documents\GitHub\Fibonacci-untamed\obj\Debug\net8.0\Fibonacci-untamed.genruntimeconfig.cache
+C:\Users\13608\Documents\GitHub\Fibonacci-untamed\obj\Debug\net8.0\ref\Fibonacci-untamed.dll
