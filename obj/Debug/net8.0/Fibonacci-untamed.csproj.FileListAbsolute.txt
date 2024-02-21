@@ -12,3 +12,4 @@ C:\Users\13608\Documents\GitHub\Fibonacci-untamed\obj\Debug\net8.0\refint\Fibona
 C:\Users\13608\Documents\GitHub\Fibonacci-untamed\obj\Debug\net8.0\Fibonacci-untamed.pdb
 C:\Users\13608\Documents\GitHub\Fibonacci-untamed\obj\Debug\net8.0\Fibonacci-untamed.genruntimeconfig.cache
 C:\Users\13608\Documents\GitHub\Fibonacci-untamed\obj\Debug\net8.0\ref\Fibonacci-untamed.dll
+C:\Users\13608\Documents\GitHub\Fibonacci-untamed\obj\Debug\net8.0\Fibonacci-untamed.sourcelink.json

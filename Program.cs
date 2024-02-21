@@ -3,12 +3,21 @@ using System.Net.Mail;
 
 namespace HelloWorld
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-           int num = 7;
-           Fibonacci(num);
+            ///<remove `//` to run the code> 
+            ///<replace `?` with the number you want to find the fibonacci of>
+            ///Example: Fibonacci(5);
+            ///Output: The fibonacci of 5 is 15
+            ///Example: Fibonacci(0);
+            ///Output: 0
+        
+
+            ///<YOU START HERE> // FOLLOW THE INSTRUCTIONS ABOVE
+           //int num = ?;
+           //Fibonacci(num);
            
         }
 
